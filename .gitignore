@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+UniversityDB_Project/
+
+# Database
+university.db
+
+# OS
+.DS_Store
+Thumbs.db
