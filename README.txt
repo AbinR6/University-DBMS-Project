@@ -11,7 +11,7 @@ The application runs completely **offline** and stores all information in a loca
 | -------------------- | ----------- |
 | Abin Aby             | Roll No  14 |
 | Adarsh S. Saji       | Roll No  16 |
-| Ajesh S. Sathyan     | Roll No  23 |
+| Ajesh S. Sathyan     | Roll No  24 |
 | Alwin Alex           | Roll No  30 |
 | Aravind Swaminath P. | Roll No  37 |
 
